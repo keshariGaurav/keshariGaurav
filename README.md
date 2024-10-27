@@ -13,14 +13,19 @@
 
 - 👯 I’m looking to collaborate on [Eazy Eats](https://github.com/keshariGaurav/food-code-api)
 
-- 💬 Ask me about anything related to Javascript/Typescript/Python or React/Express/Flask
+- 💬 Ask me about Javascript/Typescript/Python or React/Express/Flask
 
 - 📫 How to reach me **kesharigaurav97@gmail.com**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kesharigaurav97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kesharigaurav97" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gaurav-keshari-87aa11200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurav-keshari-87aa11200" height="30" width="40" /></a>
+<a href="https://medium.com/@gauravkeshari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gauravkeshari" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kesharigaurav97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kesharigaurav97" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/kesharigaurav97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kesharigaurav97" height="30" width="40" /></a>
 </p>
