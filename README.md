@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Eazy Eats](https://github.com/keshariGaurav/food-code-api)
+- 🔭 I’m currently working in Fintech as a [Full Stack Developer](https://www.alternative-path.com/)
 
-- 🌱 I’m currently learning **Microservices, Devops**
+- 🌱 I’m currently learning **Microservices, Devops, System Design**
 
-- 👯 I’m looking to collaborate on **Social Website**
+- 👯 I’m looking to collaborate on [Eazy Eats](https://github.com/keshariGaurav/food-code-api)
 
 - 💬 Ask me about **react, flask, nodejs**
 
