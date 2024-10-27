@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kesharigaurav" alt="kesharigaurav" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/kesharigaurav97" target="blank"><img src="https://img.shields.io/twitter/follow/kesharigaurav97?logo=twitter&style=for-the-badge" alt="kesharigaurav97" /></a> </p>
 
 - 🔭 I’m currently working in Fintech as a [Full Stack Developer](https://www.alternative-path.com/)
 
@@ -13,12 +13,13 @@
 
 - 👯 I’m looking to collaborate on [Eazy Eats](https://github.com/keshariGaurav/food-code-api)
 
-- 💬 Ask me about anything related to  Javascript/Typescript/Python or React/Express/Flask 
+- 💬 Ask me about anything related to Javascript/Typescript/Python or React/Express/Flask
 
 - 📫 How to reach me **kesharigaurav97@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/kesharigaurav97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kesharigaurav97" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gaurav-keshari-87aa11200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurav-keshari-87aa11200" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kesharigaurav97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kesharigaurav97" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/kesharigaurav97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kesharigaurav97" height="30" width="40" /></a>
