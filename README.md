@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on [Eazy Eats](https://github.com/keshariGaurav/food-code-api)
 
-- 💬 Ask me about **react, flask, nodejs**
+- 💬 Ask me about anything related to  Javascript/Typescript/Python or React/Express/Flask 
 
 - 📫 How to reach me **kesharigaurav97@gmail.com**
 
